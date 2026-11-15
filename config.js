@@ -131,7 +131,7 @@ const CONFIG = {
             month: "Desember",
             year: "2026",
             location: "Rumah kediaman mempelai wanita",
-            address: "Jln handilbakti komplek grand purnama 2 jalur 23 blok f no 111",
+            address: "Jl Handil Bakti Komplek Grand Purnama 2 jalur 23 blok F No 111",
             time: "08.00 WITA",
             mapsLink: "https://maps.app.goo.gl/oMW6iRfR7SB2XNLe7?g_st=iw",
         },
@@ -141,7 +141,7 @@ const CONFIG = {
             month: "Desember",
             year: "2026",
             location: "Rumah kediaman mempelai wanita",
-            address: "Jln handilbakti komplek grand purnama 2 jalur 23 blok f no 111",
+            address: "Jl Handil Bakti Komplek Grand Purnama 2 jalur 23 blok F No 111",
             time: "09.00 WITA - Selesai",
             mapsLink: "https://maps.app.goo.gl/oMW6iRfR7SB2XNLe7?g_st=iw",
         }
